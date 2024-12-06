@@ -17,6 +17,6 @@ function Layout({children}) {
   </Footer>
     </>
   )
-}
+} 
 
 export default Layout
